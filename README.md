@@ -12,3 +12,6 @@ Things i have found on github that I liked for future reads
 ### September 12, 2017 
 - [Home - SignifAI](https://www.signifai.io/) 
 - [ownCloud.org](https://owncloud.org/) 
+
+### December 26, 2017 
+- [GitHub - linki/chaoskube: chaoskube periodically kills random pods in your Kubernetes cluster.](https://github.com/linki/chaoskube) 
