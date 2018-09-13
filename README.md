@@ -4,6 +4,7 @@ Things i have found on github that I liked for future reads
 
 ### September 13, 2018 
 - [Exposing local services to Minikube using SSH - Actual Fraqtual](https://blog.fraq.io/tech/exposing-local-services-to-minikube/) 
+- [The Odd Angry Shot: Faking vCenter alarms](http://www.theoddangryshot.com/2016/10/faking-vcenter-alarms.html) 
 ### August 30, 2017 
 - [coreos/clair: Vulnerability Static Analysis for Containers](https://github.com/coreos/clair) 
 - [Home | Capital One DevExchange](https://developer.capitalone.com/) 
