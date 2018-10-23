@@ -5,6 +5,7 @@ Things i have found on github that I liked for future reads
 
 ### October 23, 2018 
 - [Keep your Kubernetes cluster balanced: the secret to High Availability](https://itnext.io/keep-you-kubernetes-cluster-balanced-the-secret-to-high-availability-17edf60d9cb7) 
+- [kubernetes-incubator/descheduler: Descheduler for Kubernetes](https://github.com/kubernetes-incubator/descheduler) 
 ### September 13, 2018 
 - [Exposing local services to Minikube using SSH - Actual Fraqtual](https://blog.fraq.io/tech/exposing-local-services-to-minikube/) 
 - [The Odd Angry Shot: Faking vCenter alarms](http://www.theoddangryshot.com/2016/10/faking-vcenter-alarms.html) 
