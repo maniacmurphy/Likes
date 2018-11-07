@@ -3,6 +3,9 @@ Things i have found on github that I liked for future reads
 
 
 
+
+### November 7, 2018 
+- [wagoodman/dive: A tool for exploring each layer in a docker image](https://github.com/wagoodman/dive) 
 ### October 23, 2018 
 - [Keep your Kubernetes cluster balanced: the secret to High Availability](https://itnext.io/keep-you-kubernetes-cluster-balanced-the-secret-to-high-availability-17edf60d9cb7) 
 - [kubernetes-incubator/descheduler: Descheduler for Kubernetes](https://github.com/kubernetes-incubator/descheduler) 
